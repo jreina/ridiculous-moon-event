@@ -1,0 +1,14 @@
+{
+  "name": "ridiculous-moon-event",
+  "version": "1.0.0",
+  "description": "Makes up ridiculous names for moon events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johnny Reina",
+  "license": "MIT",
+  "dependencies": {
+    "chance": "^1.0.18"
+  }
+}
