@@ -1,6 +1,6 @@
 {
   "name": "ridiculous-moon-event",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Makes up ridiculous names for moon events.",
   "main": "index.js",
   "scripts": {
